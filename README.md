@@ -27,4 +27,4 @@ The project uses a dataset from Kaggle, which contains daily statistics of trend
 [Link to the dataset](https://www.kaggle.com/datasets/datasnaek/youtube-new)
 
 ## Architecture Diagram
-<img src="architecture.jpeg">
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/056266bf-f247-40fa-84a8-696359dd449e" />
